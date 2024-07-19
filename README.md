@@ -1,4 +1,4 @@
-## Project 3 of the Eth+Avax Course.
+## Custom ERC20 Token
 This project is a requirement for the ETH + AVAX course in metacrafters. This demonstrates the use and capabilities of an ERC20 token. This serves as an intermediate requirement for learn ETH and AVAX.
 
 ## Description
