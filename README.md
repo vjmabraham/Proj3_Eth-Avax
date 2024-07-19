@@ -1,5 +1,5 @@
 ## Custom ERC20 Token
-This project is a requirement for the ETH + AVAX course in metacrafters. This demonstrates the use and capabilities of an ERC20 token. This serves as an intermediate requirement for learn ETH and AVAX.
+This project is a requirement for the ETH + AVAX course in metacrafters. This demonstrates the use and capabilities of an ERC20 token. This serves as an intermediate requirement for learning ETH and AVAX.
 
 ## Description
 This program is a contract in Solidity, a programming program language used for developing smart contracts in Ethereum. The contract has multiple function that are stated below.
@@ -30,4 +30,4 @@ Contributors names and contact info
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License.
